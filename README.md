@@ -4,8 +4,11 @@ En este repositorio vamos a practicar el trabajo con repositorios en Github.
 
 ## Instrucciones
 
-1. Haz un fork del repositorio.
+1. Haz un fork del repositorio https://github.com/rarce/primeros-pasos-git
 2. Clona tu repositorio fork en tu máquina.
+   ```bash
+   git clone https://github.com/rarce/primeros-pasos-git.git
+   ``` 
 3. Crea una nueva rama.
 4. Realiza tus cambios y commitea.
 5. Sube tus cambios a tu repositorio fork.
