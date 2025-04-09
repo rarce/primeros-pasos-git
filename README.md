@@ -25,4 +25,6 @@ En este repositorio vamos a practicar el trabajo con repositorios en Github.
 
 ## Opensource
 
-1. Los alumnos deben colaborar en un proyecto opensource
+1. Buscar un proyecto
+2. Hacer Fork del proyecto
+3. Los alumnos deben colaborar en un proyecto opensource
