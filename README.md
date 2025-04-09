@@ -22,3 +22,7 @@ En este repositorio vamos a practicar el trabajo con repositorios en Github.
 2. Dentro de ese directorio, otro directorio llamado paralelo-X, donde X es el paralelo del curso.
 3. Dentro de ese directorio, crear un archivo llamado `grupo-Y.md`, donde Y es el número de grupo.
 4. Escribir en el archivo `grupo-Y.md` el nombre de los integrantes del grupo.
+
+## Opensource
+
+1. Los alumnos deben colaborar en un proyecto opensource
