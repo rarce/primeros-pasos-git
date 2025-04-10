@@ -21,4 +21,4 @@ En este repositorio vamos a practicar el trabajo con repositorios en Github.
 1. Crear un directorio llamado 2025 o el año correspondiente.
 2. Dentro de ese directorio, otro directorio llamado paralelo-X, donde X es el paralelo del curso.
 3. Dentro de ese directorio, crear un archivo llamado `grupo-Y.md`, donde Y es el número de grupo.
-4. Escribir en el archivo `grupo-Y.md` el nombre de los integrantes del grupo.
+4. Escribir en el archivo `grupo-Y.md` el nombre de los integrantes del grupo.FIN 
