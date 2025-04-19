@@ -1,0 +1,6 @@
+"integrantes del grupo 1"
+"alan ramirez"
+"nicolas aravena"
+"valentina loyola"
+"nicolas gonzalez"
+"paula rivera"
